@@ -1,0 +1,65 @@
+📦 Python Standard Libraries
+os → (You didn't explicitly use it, but may need it for file paths if you generalize.)
+
+math → (Not used in your current code, but often used with np.log1p, etc.)
+
+🐍 Third-Party Libraries
+✅ Data Manipulation
+pandas
+
+numpy
+
+✅ Data Visualization
+matplotlib.pyplot
+
+pandas.plotting.scatter_matrix
+
+✅ Machine Learning
+sklearn (scikit-learn):
+
+sklearn.model_selection
+
+train_test_split
+
+sklearn.impute
+
+SimpleImputer
+
+sklearn.preprocessing
+
+OrdinalEncoder
+
+OneHotEncoder
+
+MinMaxScaler
+
+StandardScaler
+
+FunctionTransformer
+
+sklearn.pipeline
+
+Pipeline
+
+make_pipeline
+
+sklearn.compose
+
+ColumnTransformer
+
+sklearn.base
+
+BaseEstimator
+
+TransformerMixin
+
+sklearn.cluster
+
+KMeans
+
+sklearn.metrics.pairwise
+
+rbf_kernel
+
+✅ Model Saving/Loading
+joblib → used in project.py to load the .pkl model
