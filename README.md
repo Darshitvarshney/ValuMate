@@ -8,7 +8,7 @@ Here is a clean section you can write in your `README.md` under a **Model Downlo
 
 The trained model (`House_Price_Prediction_Model.pkl`) is not included in this repository due to size limitations.
 
-👉 **[Click here to download the model from Google Drive](https://drive.google.com/file/d/1AtVInbAsAYgpd0EjYHqkK5x1U5zdD0cyd/view?usp=sharing)**
+👉 **[Click here to download the model from Google Drive](https://drive.google.com/file/d/1AtVInbAsaYgpd0JyHqKk5x1U5zdDOcyd/view?usp=sharing)**
 
 
 ### 📂 How to use:
