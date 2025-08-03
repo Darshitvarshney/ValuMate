@@ -19,7 +19,6 @@ The trained model (`House_Price_Prediction_Model.pkl`) is not included in this r
 
 ```
 Project Folder/
-├── Model/  ❌ (You don't need a folder named 'Model', place the file directly)
 ├── House_Price_Prediction_Model.pkl ✅
 ├── final.py
 ├── housing.csv
